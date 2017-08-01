@@ -4,13 +4,13 @@ Automatic install `vim-go` plugin for golang.
 
 
 ##usage:
-	git clone https://github.com/aimin/InstallvimGo.git InstallVimGo
-	cd InstallVimGo
+	git clone https://github.com/chengxueb/goenv.git
+	cd goenv_vim
 	./InstallVimGo.sh
 	
 	
 ##test:
-	vim InstallVimGo/235.go
+	vim InstallVimGo/test.go
 
 	
 
